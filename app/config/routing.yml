@@ -1,0 +1,5 @@
+lynda_magazine:
+    resource: "@LyndaMagazineBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
